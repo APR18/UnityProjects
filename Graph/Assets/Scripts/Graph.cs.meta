@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 75e5308ad26f1a24d84d7b084219b815
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pointGraph: {fileID: 2829715376209628683, guid: 666393fc18ff72047b9ec87431b93b69, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
